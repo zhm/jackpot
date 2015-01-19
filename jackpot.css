@@ -29,6 +29,10 @@ html, body {
   color: red;
 }
 
-.won, .gain {
+.won {
+  color: blue;
+}
+
+.gain {
   color: green;
 }
