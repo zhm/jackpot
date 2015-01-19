@@ -1,0 +1,34 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: Sans-Serif;
+  background: #000;
+}
+
+.stats {
+  margin-top: 30px;
+}
+
+.label {
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.total {
+  font-size: 80px;
+  text-align: center;
+  padding: 8px;
+}
+
+.count {
+  color: white;
+}
+
+.spent, .loss {
+  color: red;
+}
+
+.won, .gain {
+  color: green;
+}
